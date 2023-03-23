@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">languages</string>
+
+    <string name="idioma">engrish</string>
+    <string name="saludo_idioma">whalecum</string>
+    <string name="mensaje_idioma">henlo mi name si guillem</string>
+</resources>

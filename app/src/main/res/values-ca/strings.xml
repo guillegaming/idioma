@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">idiomes</string>
+
+    <string name="idioma">Català</string>
+    <string name="saludo_idioma">visca el cataluñet</string>
+    <string name="mensaje_idioma">magrada segrestar ek guillem</string>
+</resources>
